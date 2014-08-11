@@ -1,0 +1,11 @@
+body {
+  background-color:#eee;
+}
+
+.block p {
+  background: #333;
+  color: #fff;
+  padding: 30px;
+  text-align: center;
+  display:inline-block;
+}
